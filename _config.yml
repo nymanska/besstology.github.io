@@ -16,7 +16,7 @@ timezone: Europe/Stockholm
 
 title: The BESS Toolbox # the main title
 
-tagline: "The BESS Toolbox (by Gustav Nyman) - Insights & Tools for the Energy Transition" # it will display as the subtitle"
+tagline: "Insights & Tools for the Energy Transition" # it will display as the subtitle"
 
 description: >- # used by seo meta and the atom feed
   The BESS Toolbox is a curated platform by Gustav Nyman offering insights, tools, and practical resources for professionals driving the energy transition through battery energy storage systems.
@@ -88,17 +88,17 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://github.com/nymanska/thebesstoolbox.github.io/blob/main/assets/img/the-bess-toolbox-logo.png?raw=true
+cdn: /assets/img/the-bess-toolbox-logo.png
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/nymanska/thebesstoolbox.github.io/blob/main/assets/img/the-bess-toolbox-logo.png?raw=true
+avatar: /assets/img/the-bess-toolbox-logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
