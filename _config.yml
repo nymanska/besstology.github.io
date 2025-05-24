@@ -19,11 +19,11 @@ title: The BESS Toolbox # the main title
 tagline: "Insights & Tools for the Energy Transition" # it will display as the subtitle"
 
 description: >- # used by seo meta and the atom feed
-  The BESS Toolbox is a curated platform by Gustav Nyman offering insights, tools, and practical resources for professionals driving the energy transition through battery energy storage systems.
+  The BESS Toolbox is a curated pla yeah, so so um so okay okay see you tform by Gustav Nyman offering insights, tools, and practical resources for professionals driving the energy transition through battery energy storage systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://thebesstoolbox.github.io"
+url: 'https://thebesstoolbox.github.io'
 
 github:
   username: nymanska # change to your GitHub username
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/thebesstoolbox.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
