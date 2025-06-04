@@ -28,6 +28,6 @@ Key elements:
 - Bonuses for >90% availability  
 - Defined technical standard for virtual inertia  
 
-🧠 **What it means for BESS**: The business case isn’t automatically stronger — pricing and implementation details are still emerging. But this marks a new monetizable role for BESS, especially for systems with **grid-forming capabilities**.
+🧠 **What it means for BESS**: The business case isn’t automatically stronger — pricing and implementation details are still emerging. But this marks a new monetizable role for BESS in Germany, especially for systems with **grid-forming capabilities**.
 
 📖 [Source: Energy-Storage.news — May 21, 2025](https://www.energy-storage.news/germany-opening-up-inertia-services-for-bess-discussing-grid-fee-reforms/)
