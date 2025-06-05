@@ -4,8 +4,8 @@ date: 2025-06-04 20:50:00 0100
 categories: [Storage News, Market Signals]
 tags: [market-signals, grid-forming, germany, synthetic-inertia, ancillary-services]
 image:
-  path: https://www.thebesstoolbox.com/assets/img/2025/banner-storage-news-market-signals.png
-  #lqtip:
+  path: /assets/img/2025/banner-storage-news-market-signals.png
+  lqtip:
 ---
 
 Germany is advancing two regulatory reforms that could reshape the economics and operating model of battery energy storage systems (BESS) 🔋⚡
