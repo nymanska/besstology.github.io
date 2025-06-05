@@ -38,7 +38,7 @@ social:
   email: hello@thebesstoolbox.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #  # change to your Twitter homepage
+    - https://twitter.com/thebesstoolbox # change to your Twitter homepage
     #  # change to your GitHub homepage
     # # Uncomment below to add more social links
     # - https://www.facebook.com/username
