@@ -1,11 +1,11 @@
 ---
-title: "🇩🇪 Germany Opens Inertia Market & Grid Tariff Reform"
+title: 🇩🇪 Germany Opens Inertia Market & Grid Tariff Reform
 date: 2025-06-04 20:50:00 0100
 categories: [Storage News, Market Signals]
 tags: [market-signals, grid-forming, germany, synthetic-inertia, ancillary-services]
 image: 
   path: /assets/img/2025/banner-storage-news-market-signals.png
-  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/
+  lqtip:
 ---
 
 Germany is advancing two regulatory reforms that could reshape the economics and operating model of battery energy storage systems (BESS) 🔋⚡
