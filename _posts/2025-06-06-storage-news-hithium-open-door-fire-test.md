@@ -1,5 +1,5 @@
 ---
-title: 🔥 HiTHIUM Completes World’s First Open-Door Fire Test on 5MWh BESS
+title: "🔥 HiTHIUM Completes World’s First Open-Door Fire Test on 5MWh BESS"
 date: 2025-06-06 10:40:00 0100
 categories: [Storage News, Fire Safety]
 tags: [fire-safety, ul9540a, thermal-runaway, system-design, hithium]
