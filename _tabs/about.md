@@ -29,4 +29,4 @@ This isn’t just a blog. It’s a toolbox — built to evolve alongside the ind
 
 ## 🔋 Energy Storage. Unboxed.
 
-Built to be useful now, and expandable later — not unlike your favorite BESS site, except this one remembered to leave room for augmentation. Whether you’re here to learn, collaborate, or dig deep into a specific topic, welcome.
+Built to be useful now, and expandable later - not unlike your favorite BESS site, except this one remembered to leave room for augmentation. Whether you’re here to learn, collaborate, or dig deep into a specific topic, welcome.
