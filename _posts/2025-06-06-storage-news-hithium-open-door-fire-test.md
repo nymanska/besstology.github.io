@@ -11,6 +11,7 @@ image:
 HiTHIUM has completed the first **open-door fire test** on a full-scale battery energy storage system (BESS), validating its system-level safety design under extreme thermal conditions.
 
 ![HiTHIUM Open-Door Fire Test](https://en.hithium.com/bocupload/at/image/20250605/1749113018365682mpw6.jpg)
+*The container doors remained fully open throughout the test*
 
 ## Test Conditions
 
