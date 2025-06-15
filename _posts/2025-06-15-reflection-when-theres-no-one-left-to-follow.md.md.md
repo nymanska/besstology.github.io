@@ -4,7 +4,7 @@ date: 2025-06-15 12:15:00 0100
 categories: [Notes, Reflections]
 tags: [reflections, podcast, grid-following, synthetic-inertia]
 image:
-  path: /assets/img/2025/banner-notes-reflections.png
+  path: https://www.thebesstoolbox.com//assets/img/2025/banner-notes-reflections.png
   lqtip:
 ---
 
@@ -16,7 +16,7 @@ Just finished listening to the [Energy Insiders](https://reneweconomy.com.au/) p
     
 - **Grid-forming inverters can establish their own voltage and frequency.** They don’t need an external reference, making them essential in high-renewable, inverter-dominated systems.
     
-- **Digital inertia — especially from batteries — can respond in milliseconds,** and has been shown to be up to **8× more effective** than traditional rotating machines.
+- **Synthetic inertia — especially from batteries — can respond in milliseconds,** and has been shown to be up to **8× more effective** than traditional rotating machines.
     
 - **Inertia is disappearing not just from generation, but from loads too.** As induction motors are replaced with inverter-based technologies, we're losing ‘load inertia’ as well.
     
