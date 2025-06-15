@@ -4,7 +4,7 @@ date: 2025-06-15 12:15:00 0100
 categories: [Notes, Reflections]
 tags: [reflections, podcast, grid-following, synthetic-inertia]
 image:
-  path: /assets/img/2025/banner-reflection.png
+  path: /assets/img/2025/banner-notes-reflections.png
   lqtip:
 ---
 
