@@ -1,15 +1,14 @@
-
 ---
 title: "🔎 Reflection: When There’s No One Left to Follow"
 date: 2025-06-15 12:15:00 0100
 categories: [Notes, Reflections]
-tags: [reflection, podcast, grid-following, synthetic-inertia]
+tags: [reflections, podcast, grid-following, synthetic-inertia]
 image:
   path: /assets/img/2025/banner-reflection.png
   lqtip:
 ---
 
-Just finished listening to the _Energy Insiders_ podcast episode **“State of Inertia and Potential for Grid-Forming Inverters”**, where Dean Sharafi (AEMO WA) unpacks the crucial role of inertia and the emerging importance of grid-forming inverters.
+Just finished listening to the [Energy Insiders](https://reneweconomy.com.au/) podcast episode **“State of Inertia and Potential for Grid-Forming Inverters”**, where Dean Sharafi (AEMO WA) unpacks the crucial role of inertia and the emerging importance of grid-forming inverters.
 
 ### Key Takeaways
 
@@ -21,7 +20,7 @@ Just finished listening to the _Energy Insiders_ podcast episode **“State of I
     
 - **Inertia is disappearing not just from generation, but from loads too.** As induction motors are replaced with inverter-based technologies, we're losing ‘load inertia’ as well.
     
-- **With lower system inertia, disturbances escalate faster.** This increases the risk of cascading generator trips, DER disconnections, and potentially widespread blackouts.
+- **With lower system inertia, disturbances escalate faster.** This increases the risk of cascading generator trips, Distributed Energy Resources (DER) disconnections, and potentially widespread blackouts.
 
 > “We know even 100% renewables is achievable. The challenge is how to get there safely without putting the system at risk.”  
 > — Dean Sharafi
