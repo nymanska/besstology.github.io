@@ -1,5 +1,5 @@
 ---
-title: "🔎 Reflection: When There’s No One Left to Follow"
+title: "🤔 Reflection: When There’s No One Left to Follow"
 date: 2025-06-15 12:15:00 0100
 categories: [Notes, Reflections]
 tags: [reflections, podcast, grid-following, synthetic-inertia]
