@@ -1,10 +1,10 @@
 ---
-title: "⚙️ Sungrow Launches PowerTitan 3.0: Scalable, Intelligent, and Grid-Ready"
+title: "📣 Sungrow Launches PowerTitan 3.0 AC Block Available In Multiple Configurations"
 date: 2025-06-21
 categories: [Storage News, Product Release]
 tags: [sungrow, ac-block, product-release]
 image:
-  path: /assets/img/2025/june/sungrow-power-titan-3.0.png
+  path: https://www.thebesstoolbox.com/assets/img/2025/june/sungrow-power-titan-3.0.png
   lqtip:
 ---
 
