@@ -4,7 +4,7 @@ date: 2025-06-21
 categories: [Storage News, Product Release]
 tags: [sungrow, ac-block, product-release]
 image:
-  path: https://www.thebesstoolbox.com/assets/img/2025/june/sungrow-power-titan-3.0.png
+  path: https://www.thebesstoolbox.com/assets/img/2025/june/banner-sungrow-powertitan.png
   lqtip:
 ---
 
@@ -19,6 +19,9 @@ PowerTitan 3.0 is offered in three container sizes:
 - **Plus (30ft):** 12.5 MWh 
 
 Each version supports storage durations from **2 to 12 hours**, and is rated for operation from **–40°C to +55°C** and up to **5,000 m altitude** — useful for high-elevation or extreme-environment sites.
+
+![Power Titan 3.0](https://www.thebesstoolbox.com/assets/img/2025/june/sungrow-power-titan-3.0.png)
+*PowerTitan 3.0*
 
 ## 🔋 High Energy Density, Lower Site Costs
 
