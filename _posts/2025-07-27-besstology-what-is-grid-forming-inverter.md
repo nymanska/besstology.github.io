@@ -1,5 +1,5 @@
 ---
-title: ⚡ What Is a Grid-Forming Inverter?
+title: "⚡ What Is a Grid-Forming Inverter?"
 date: 2025-07-27 21:00:00 +0100
 categories: [BESStology, Grid-forming Inverter]
 tags: [grid-forming, blackstart, grid-following, IBR, ]
@@ -44,15 +44,15 @@ GFM inverters are capable of:
 
 ## Grid-Forming vs. Grid-Following
 
-| Characteristic             | Grid-Forming (GFM)               | Grid-Following (GFL)         |
-|---------------------------|----------------------------------|------------------------------|
-| Control mode              | Voltage source                   | Current source               |
-| Synchronization           | Self-synchronizing               | PLL-based (follows grid)     |
-| Operation in weak grids   | ✅ Stable                         | ❌ Typically unstable         |
-| Islanded operation        | ✅ Supported                      | ❌ Not possible               |
-| Response to disturbances  | Fast (voltage control-based)     | Slower (PLL tracking)        |
-| Black start capability    | ✅ If designed for it             | ❌ Not supported              |
-| Synchronous machine mimic | ✅ Yes                            | ❌ No                         |
+| Characteristic            | Grid-Forming (GFM)           | Grid-Following (GFL)     |
+| ------------------------- | ---------------------------- | ------------------------ |
+| Control mode              | Voltage source               | Current source           |
+| Synchronization           | Self-synchronizing           | PLL-based (follows grid) |
+| Operation in weak grids   | ✅ Stable                     | ❌ Typically unstable     |
+| Islanded operation        | ✅ Supported                  | ❌ Not possible           |
+| Response to disturbances  | Fast (voltage control-based) | Slower (PLL tracking)    |
+| Black start capability    | ✅ If designed for it         | ❌ Not supported          |
+| Synchronous machine mimic | ✅ Yes                        | ❌ No                     |
 
 > “GFM inverters emulate voltage source behavior and can support fault current, inertia, and frequency stabilization, even in the absence of synchronous machines.”  
 > — ENTSO-E, *2020 Technical Report*  
