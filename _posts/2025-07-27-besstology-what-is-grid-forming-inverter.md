@@ -1,10 +1,10 @@
 ---
 title: ⚡ What Is a Grid-Forming Inverter?
 date: 2025-07-27 21:00:00 +0100
-categories: [BESStology]
+categories: [BESStology, Grid-forming Inverter]
 tags: [grid-forming, blackstart, grid-following, IBR, ]
 image:
-  path: /assets/img/2025/july/banner-grid-forming-inverter.png
+  path: https://www.thebesstoolbox.com//assets/img/2025/july/banner-grid-forming-inverter.png
   lqtip:
 ---
 
