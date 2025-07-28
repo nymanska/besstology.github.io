@@ -37,7 +37,7 @@ GFM inverters are capable of:
 - Operating independently of synchronous generation
 
 > “GFM IBR controls maintain an internal voltage phasor that is constant or nearly constant in the sub-transient to transient time frame.” — UNIFI/NERC definition, as cited by NREL (2024)
-{: .prompt-tip }
+{: .prompt-info }
 
 ---
 
@@ -51,10 +51,10 @@ GFM inverters are capable of:
 | Islanded operation        | ✅ Supported                  | ❌ Not possible           |
 | Response to disturbances  | Fast (voltage control-based) | Slower (PLL tracking)    |
 | Black start capability    | ✅ If designed for it         | ❌ Not supported          |
-| Synchronous machine mimic | ✅ Yes                        | ❌ No                     |
+| Synthetic Inertia capability | ✅ Yes                        | ❌ No                     |
 
 > “GFM inverters emulate voltage source behavior and can support fault current, inertia, and frequency stabilization, even in the absence of synchronous machines" — ENTSO-E, 2020 Technical Report
-{: .prompt-tip }
+{: .prompt-info }
 
 ---
 
@@ -85,7 +85,7 @@ Grid-forming inverters help mitigate these by:
 - **Nordic TSOs** are jointly developing GFM requirements to address declining inertia and cross-border system strength
 
 > “GFM inverters allow converters to operate synchronously and instantaneously respond to disturbances, supporting the system like traditional synchronous machines.” — National Grid ESO & IEEE Power & Energy Magazine, 2025.
-{: .prompt-tip }
+{: .prompt-info }
 
 ---
 
@@ -102,7 +102,7 @@ GFM is more than a control mode. It is a prerequisite for BESS to operate as act
 ### References
 
 - [ENTSO-E. (2020). High Penetration of Power Electronic Interfaced Power Sources and the Potential Contribution of Grid Forming Converters](https://www.entsoe.eu/network_codes/cnc/technical-groups/)  
-- National Grid ESO. (2023). *GB Grid Forming Best Practice Guide*  
-- NREL. (2024). *Introduction to Grid Forming Inverters*  
-- IEEE Power & Energy Magazine. (2025). *Best Practice: Grid-Forming Converter Technological Development in GB*  
-- Nordic TSOs. (2025). *Nordic Grid Development Perspective*
+- [National Grid ESO. (2023). Great Britain Grid Forming Best Practice Guide](https://www.neso.energy/document/278491/download)
+- [NREL. (2024). Introduction to Grid Forming Inverters: A Key to Transforming our Power Grid](https://research-hub.nrel.gov/en/publications/introduction-to-grid-forming-inverters-a-key-to-transforming-our-)
+- [IEEE Power & Energy Magazine. (2025). Best Practice: Grid-Forming Converter Technological Development in GB](https://ieee-pes.org/wp-content/uploads/2025/03/March-April-2025-open-Best_Practice_Grid-Forming_Converter_Technological_Development_in_Great_Britain.pdf)
+- [Nordic TSOs. (2025). *Nordic Grid Development Perspective](https://www.svk.se/49e775/contentassets/cf866a8ab9dc42fa81e618ef69541a4e/nordic-grid-development---final.pdf)
