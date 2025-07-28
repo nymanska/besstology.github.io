@@ -101,7 +101,7 @@ GFM is more than a control mode. It is a prerequisite for BESS to operate as act
 
 ### References
 
-- ENTSO-E. (2020). *High Penetration of Power Electronic Interfaced Power Sources and the Potential Contribution of Grid Forming Converters*  
+- [ENTSO-E. (2020). High Penetration of Power Electronic Interfaced Power Sources and the Potential Contribution of Grid Forming Converters](https://www.entsoe.eu/network_codes/cnc/technical-groups/)  
 - National Grid ESO. (2023). *GB Grid Forming Best Practice Guide*  
 - NREL. (2024). *Introduction to Grid Forming Inverters*  
 - IEEE Power & Energy Magazine. (2025). *Best Practice: Grid-Forming Converter Technological Development in GB*  
