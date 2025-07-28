@@ -3,6 +3,7 @@ title: "⚡ What Is a Grid-Forming Inverter?"
 date: 2025-07-27 21:00:00 +0100
 categories: [BESStology, Grid-forming Inverter]
 tags: [grid-forming, blackstart, grid-following, IBR, ]
+excerpt: "Grid-forming inverters (GFMs) are emerging as a key technology to meet this need. This article explains what they are, how they differ from grid-following inverters, and their role in the evolving grid."
 image:
   path: https://www.thebesstoolbox.com//assets/img/2025/july/banner-grid-forming-inverter.png
   lqtip:
