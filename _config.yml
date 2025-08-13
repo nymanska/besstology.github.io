@@ -16,12 +16,13 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The BESS Toolbox # the main title
+title: BESStology # the main title
 
-tagline: "Insights & Tools for the Energy Transition" # it will display as the subtitle"
+tagline: "Technical Insights for the Energy Transition" # it will display as the subtitle"
 
 description: >- # used by seo meta and the atom feed
-  The BESS Toolbox is a curated platform by Gustav Nyman offering insights, tools, and practical resources for professionals driving the energy transition through battery energy storage systems.
+  BESStology is a trusted technical reference and curated news source for the BESS industry, offering well-researched insights and engineering perspectives that help stakeholders navigate the energy transition with confidence.
+
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
