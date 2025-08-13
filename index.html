@@ -1,7 +1,16 @@
 ---
 layout: home
+title: Home
+# (Optional) description shown in meta tags
+description: "Insights & tools for the energy transition."
 ---
 
+{%- comment -%}
+Hero banner — editable at _includes/hero.html
+{%- endcomment -%}
 {% include hero.html %}
 
-<!-- The rest of your homepage content follows -->
+{%- comment -%}
+Below, we leave the actual post listing to Chirpy’s built-in `home` layout.
+Placing the include here makes the hero render above the posts.
+{%- endcomment -%}
