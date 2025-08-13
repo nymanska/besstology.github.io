@@ -1,16 +1,41 @@
 <section class="hero">
   <div class="hero__inner">
     <div class="hero__text">
-      <h1 class="hero__title">{{ site.title }}</h1>
+      <h1 class="hero__title">
+        {{ site.title | default: "The BESS Toolbox" }}
+      </h1>
+
       <p class="hero__subtitle">
-        Insights & tools for the energy transition — covering grid-forming inverters,
-        BESS safety, market trends, and more.
+        {{ site.description | default: "Insights & tools for the energy transition — grid-forming inverters, BESS safety, market signals, and more." }}
       </p>
-      <a class="btn btn--primary" href="/about/">Learn more</a>
-      <a class="btn btn--ghost" href="/categories/">Browse topics</a>
+
+      <div class="hero__ctas">
+        <a class="btn btn--primary" href="/categories/">Browse topics</a>
+        <a class="btn btn--ghost" href="/about/">About this site</a>
+        <a class="btn btn--ghost" href="/archives/">All posts</a>
+      </div>
+
+      <p class="hero__note">
+        New here? Start with <a href="/tags/grid-forming/">grid-forming</a>,
+        <a href="/tags/fire-safety/">fire safety</a>, or
+        <a href="/tags/market-signals/">market signals</a>.
+      </p>
+
+      <!-- Tiny "recently updated" chips (optional) -->
+      <div class="hero__recent">
+        {% assign recent = site.posts | slice: 0, 3 %}
+        {% if recent.size > 0 %}
+          <span class="hero__recent-label">Recently updated:</span>
+          {% for p in recent %}
+            <a class="hero__chip" href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
     </div>
+
     <div class="hero__art">
-      <img src="/assets/img/hero-bess.png" alt="BESS illustration">
+      <!-- Replace with your own illustration -->
+      <img src="/assets/img/hero-bess.png" alt="Stylized battery energy storage system">
     </div>
   </div>
 </section>
