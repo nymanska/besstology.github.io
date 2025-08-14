@@ -11,5 +11,5 @@ Here, I share clear, fact-based insights into the technologies, standards, and m
 
 All content is based on publicly available sources and reflects my own professional views, independent of any past or current employer.
 
-> “Built to be useful now, and expandable later - not unlike your favorite BESS site, except this one remembered to leave room for augmentation.
-{: .prompt-info }
+> Built to be useful now, and expandable later - not unlike your favorite BESS site, except this one remembered to leave room for augmentation.
+{: .prompt-tip }
