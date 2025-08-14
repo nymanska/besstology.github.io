@@ -4,7 +4,7 @@ date: 2025-06-21
 categories: [Storage News, Product Release]
 tags: [sungrow, ac-block, product-release]
 image:
-  path: https://www.thebesstoolbox.com/assets/img/2025/june/banner-sungrow-powertitan.png
+  path: https://www.besstology.com/assets/img/2025/june/banner-sungrow-powertitan.png
   lqtip:
 ---
  

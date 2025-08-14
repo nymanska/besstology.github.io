@@ -4,7 +4,7 @@ date: 2025-06-15 12:15:00 0100
 categories: [Notes, Reflections]
 tags: [reflections, podcast, grid-following, synthetic-inertia]
 image:
-  path: https://www.thebesstoolbox.com//assets/img/2025/june/banner-no-one-to-follow.png
+  path: https://www.besstology.com//assets/img/2025/june/banner-no-one-to-follow.png
   lqtip:
 ---
 
