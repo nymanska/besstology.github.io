@@ -26,23 +26,23 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://www.thebesstoolbox.com"
+url: "https://www.besstology.com"
 baseurl: ""
 
 github:
   username: nymanska # change to your GitHub username
 
 twitter:
-  username: thebesstoolbox # change to your Twitter username
+  username: besstology # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: The BESS Toolbox
-  email: hello@thebesstoolbox.com # change to your email address
+  name: BESStology
+  email: hello@besstology.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/thebesstoolbox # change to your Twitter homepage
+    - https://twitter.com/besstology # change to your Twitter homepage
     #  # change to your GitHub homepage
     # # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -99,10 +99,10 @@ theme_mode: dark # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://github.com/nymanska/thebesstoolbox.github.io/blob/main/assets/img/the-bess-toolbox-logo.png?raw=true
+cdn: https://github.com/nymanska/besstology.github.io/blob/main/assets/img/besstology-logo.png?raw=true
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/nymanska/thebesstoolbox.github.io/blob/main/assets/img/the-bess-toolbox-logo.png?raw=true
+avatar: https://github.com/nymanska/besstology.github.io/blob/main/assets/img/besstology-logo.png?raw=true
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
