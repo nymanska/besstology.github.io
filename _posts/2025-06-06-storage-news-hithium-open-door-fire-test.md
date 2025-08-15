@@ -25,7 +25,7 @@ On June 5, 2025, HiTHIUM successfully completed what it claims to be the first-e
 {% include embed/youtube.html id='jx-Cfy4GWr8' %}
 
 ## BESStology Perspective 
-- **Fire Containment Cuts Land Costs**: Given that adjacent units no longer require wide separation distances, developers can optimize land usage and reduce acquisition and leasing costs. This improved spatial efficiency can enhance project viability, lower capex, and ultimately support more economical deployment of energy storage infrastructure.
+- **Fire Containment Cuts Land Costs**: Given that adjacent DC blocks no longer require wide separation, developers can use land more efficiently, lowering acquisition or lease costs and thereby improving BESS economics.
 - **Higher Standards Limit Competition**: Stricter fire safety tests demand major investments for DC and AC Block manufacturers, favoring large players with resources and limiting competition from smaller companies.
 
 
