@@ -18,7 +18,7 @@ timezone: Europe/Stockholm
 
 title: BESStology # the main title
 
-tagline: "Independent Technical Insights the Energy Transition - a blog by Gustav Nyman" # it will display as the subtitle"
+tagline: "Independent Technical Insights for the Energy Transition - a blog by Gustav Nyman" # it will display as the subtitle"
 
 description: >- # used by seo meta and the atom feed
   BESStology is a trusted technical reference and curated news source for the BESS industry, offering well-researched insights and engineering perspectives that help stakeholders navigate the energy transition with confidence.
