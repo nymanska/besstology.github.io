@@ -15,6 +15,6 @@ Built to be useful now, and expandable later - not unlike your favorite BESS sit
 {: .prompt-tip }
 
 ## Get in Touch
-- ✉️ [Email](gustav.nyman@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustav-nyman/) 
-- 🐦 [Twitter/X](https://x.com/nymanska)
+- ✉️ Email: [gustav.nyman@gmail.com](mailto:gustav.nyman@gmail.com)
+- 🔗 LinkedIn: [@gustav-nyman](https://www.linkedin.com/in/gustav-nyman/)
+- 🐦 Twitter/X: [@Nymanska](https://x.com/nymanska)
