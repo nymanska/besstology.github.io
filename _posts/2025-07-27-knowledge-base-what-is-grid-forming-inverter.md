@@ -6,6 +6,7 @@ tags: [grid-forming, black-start, grid-following, IBR, GFM, GFI]
 image:
   path: https://www.besstology.com/assets/img/2025/july/banner-grid-forming-inverter.png
   lqtip:
+author: gustav
 ---
 
 ### 📌 TL;DR
