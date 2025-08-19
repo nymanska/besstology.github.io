@@ -6,6 +6,7 @@ tags: [reflections, podcast, grid-following, synthetic-inertia]
 image:
   path: https://www.besstology.com//assets/img/2025/june/banner-no-one-to-follow.png
   lqtip:
+author: gustav
 ---
 
 

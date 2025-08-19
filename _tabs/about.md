@@ -14,4 +14,7 @@ Built to be useful now, and expandable later - not unlike your favorite BESS sit
 > All content is based on publicly available sources and reflects my own professional views, independent of any past or current employer.
 {: .prompt-tip }
 
-
+## Get in Touch
+- ✉️ [Mail](gustav.nyman@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustav-nyman/) 
+- 🐦 [Twitter/X](https://x.com/nymanska)
