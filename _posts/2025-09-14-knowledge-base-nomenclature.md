@@ -22,22 +22,23 @@ Nomenclature relevant to Battery Energy Storage Systems (BESS).
 ## A  
 
 #### AC Block  
-An AC Block, often referred to as the containerized (or cabinet) BESS Block, integrates battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), DC protection, Power Conversion System (PCS), auxiliary systems, and a BESS Controller, providing an integrated BESS Block.
+An AC Block, often referred to as the containerized (or cabinet) BESS Block, integrates battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), DC protection, Power Conversion System (PCS), auxiliary systems, and a BESS Controller, providing an integrated BESS Block.  
+
 ---
 
 ## B  
 
-#### Balance of Plant (BoP)  
-Balance of Plant refers to all supporting infrastructure required to make a battery energy storage system (BESS) functional-excluding the core DC blocks, PCS & MV skids, and BESS/BPC controller hardwares. BoP typically includes civil works, DC/AC cabling, auxillary systems, installation, commissioning and support during Site Accaptance Tests (SAT). Depending on the project specifics, SCADA and controls setup may or may not be part of the BoP scope. A BoP contractor is typically responsible for delivering and coordinating all supporting infrastructure and interfaces.
-
 #### BESS Block  
-A complete Battery Energy Storage System consisting of DC Block, PCS, Medium-voltage transformer and Switchgear (possibly MV Skid), and BESS Controller.   
+A complete Battery Energy Storage System consisting of DC Block, PCS, Medium-voltage transformer and Switchgear (possibly MV Skid), and BESS Controller.  
 
 #### BESS Controller  
 A controller responsible for monitoring and controlling interactions between DC Block and PCS.  
 
+#### Balance of Plant (BoP)  
+Balance of Plant refers to all supporting infrastructure required to make a Battery Energy Storage System (BESS) functional-excluding the core DC Blocks, PCS & MV skids, and BESS/BPC controller hardwares. BoP typically includes civil works, DC/AC cabling, auxillary systems, installation, commissioning and support during Site Acceptance Tests (SAT). Depending on the project specifics, SCADA and controls setup may or may not be part of the BoP scope. A BoP contractor is typically responsible for delivering and coordinating all supporting infrastructure and interfaces.  
+
 #### BESS Plant  
-A complete Battery Energy Storage System plant consisting of BESS blocks (or AC blocks), Battery Plant Controller, and SCADA.
+A complete Battery Energy Storage System plant consisting of BESS blocks (or AC blocks), Battery Plant Controller, and SCADA.  
 
 ---
 
