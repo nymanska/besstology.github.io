@@ -1,6 +1,6 @@
 ---
 title: "📋 BESS Industry Nomenclature (A–Z Guide)"
-date: 2025-10-14 14:00:00 0100
+date: 2025-09-14 14:00:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [nomenclature]
 image:
@@ -13,6 +13,9 @@ Nomenclature relevant to Battery Energy Storage Systems (BESS).
 
 **Jump to:**  
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)  
+
+> Nomenclature and terminology can vary across regions, and there is often no single ‘correct’ usage. The following glossary reflects the terms the author consider most suitable and those that are either established or emerging as industry standards.
+{: .prompt-info }
 
 ---
 
