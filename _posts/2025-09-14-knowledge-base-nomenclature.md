@@ -22,22 +22,22 @@ Nomenclature relevant to Battery Energy Storage Systems (BESS).
 ## A  
 
 #### AC Block  
-The AC Block, often referred to as the containerized (or cabinet) BESS, integrates battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), DC protection, Power Conversion System (PCS), auxiliary systems, and the BESS Controller, providing an integrated BESS solution.
+An AC Block, often referred to as the containerized (or cabinet) BESS Block, integrates battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), DC protection, Power Conversion System (PCS), auxiliary systems, and a BESS Controller, providing an integrated BESS Block.
 ---
 
 ## B  
 
 #### Balance of Plant (BoP)  
-Balance of Plant refers to all supporting infrastructure required to make a battery energy storage system (BESS) functional—excluding the core DC blocks, PCS & MV skids, and BESS/BPC controllers. BoP typically includes civil works, electrical systems, transformers, grid connection, and auxiliary services. Depending on the project setup, SCADA and controls may or may not be part of the BoP scope, but are often included under the EPC contractor’s responsibility. A BoP contractor is typically responsible for delivering and coordinating all supporting infrastructure and interfaces. 
+Balance of Plant refers to all supporting infrastructure required to make a battery energy storage system (BESS) functional-excluding the core DC blocks, PCS & MV skids, and BESS/BPC controller hardwares. BoP typically includes civil works, DC/AC cabling, auxillary systems, installation, commissioning and support during Site Accaptance Tests (SAT). Depending on the project specifics, SCADA and controls setup may or may not be part of the BoP scope. A BoP contractor is typically responsible for delivering and coordinating all supporting infrastructure and interfaces.
 
 #### BESS Block  
-A complete battery and storage system consisting of DC Block, PCS (possibly MV Skid), and BESS Controller.  
+A complete Battery Energy Storage System consisting of DC Block, PCS, Medium-voltage transformer and Switchgear (possibly MV Skid), and BESS Controller.   
 
 #### BESS Controller  
 A controller responsible for monitoring and controlling interactions between DC Block and PCS.  
 
 #### BESS Plant  
-A complete battery and restored system plant consisting of best blocks and plant-level battery plant controller 
+A complete Battery Energy Storage System plant consisting of BESS blocks (or AC blocks), Battery Plant Controller, and SCADA.
 
 ---
 
@@ -50,14 +50,14 @@ _No entries yet_
 ## D  
 
 #### DC Block  
- Includes battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), and DC protection equipment. Typically delivered in cabinet or containerized format.
+A cabinet or containerized. rised battery system includeing battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), and DC protection equipment. 
 
 ---
 
 ## E  
 
 #### EPC (Engineering, Procurement, and Construction)  
-An EPC (Engineering, Procurement, and Construction) contractor is responsible for delivering a complete, operational project. This includes designing the system, procuring all necessary equipment and materials, and constructing the facility. The EPC contractor assumes full accountability for performance, schedule, and integration.
+An EPC (Engineering, Procurement, and Construction) contractor is responsible for delivering a complete, operational project. This includes designing the BESS Plant, procuring all necessary equipment and materials, and constructing the facility. The EPC contractor assumes full accountability for system compatability, procurement, delivery schedule, and functional performance.
 
 ---
 
@@ -106,7 +106,7 @@ _No entries yet_
 ## M  
 
 #### MV Skid  
-Integrated containerized solution combining transformer and medium-voltage switchgear (MVSG).  
+Integrated containerized solution combining medium-voltage Transformer and medium-voltage switchgear (MVSG).  
 
 ---
 
@@ -127,6 +127,10 @@ _No entries yet_
 #### PCS (Power Conversion System)  
 Power Conversion System (PCS) converts energy between AC and DC. Enables bidirectional power flow and provides control of active/reactive power, voltage, and frequency to meet grid and operational requirements.
 
+#### PCS & MV Skid  
+Integrated containerized solution combining Power Conversion System (PCS), medium-voltage Transformer and medium-voltage Switchgear (MVSG).  
+
+
 ---
 
 ## Q  
@@ -138,7 +142,7 @@ _No entries yet_
 ## R  
 
 #### RTM Controller (Route-to-Market Controller)  
-Route-to-Market (RTM) controller used for commercial dispatch, asset scheduling, and revenue optimization. A route to market controller is an optional device that may or may not be required depending on the capabilities of the battery plant controller. 
+Route-to-Market (RTM) controller used for commercial dispatch, asset scheduling, and revenue optimization. A route to market controller is an optional device that may or may not be required depending on the capabilities of the battery plant controller. Often referred to as a Energy Management System (EMS) depending on the functionality.
 
 ---
 
