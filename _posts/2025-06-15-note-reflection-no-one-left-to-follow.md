@@ -13,7 +13,7 @@ author: gustav
 An episode of the [Energy Insiders](https://reneweconomy.com.au/) podcast featuring Dean Sharafi explored the growing importance of grid-forming inverters as the energy mix shifts to inverter-based renewables. With traditional synchronous machines retiring, grid-following inverters lose their reference point, making grid-forming capability critical for maintaining grid stability.
 
 > “We know even 100% renewables is achievable. The challenge is how to get there safely without putting the system at risk.”  
-> — Dean Sharafi
+> - Dean Sharafi
 {: .prompt-tip }
 
 **Technical Highlights**  
