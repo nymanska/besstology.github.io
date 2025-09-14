@@ -107,3 +107,6 @@ GFM is more than a control mode. It is a prerequisite for BESS to operate as act
 - [NREL. (2024). Introduction to Grid Forming Inverters: A Key to Transforming our Power Grid](https://research-hub.nrel.gov/en/publications/introduction-to-grid-forming-inverters-a-key-to-transforming-our-)
 - [IEEE Power & Energy Magazine. (2025). Best Practice: Grid-Forming Converter Technological Development in GB](https://ieee-pes.org/wp-content/uploads/2025/03/March-April-2025-open-Best_Practice_Grid-Forming_Converter_Technological_Development_in_Great_Britain.pdf)
 - [Nordic TSOs. (2025). *Nordic Grid Development Perspective](https://www.svk.se/49e775/contentassets/cf866a8ab9dc42fa81e618ef69541a4e/nordic-grid-development---final.pdf)
+
+
+{% include comments.html %}

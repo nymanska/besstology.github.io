@@ -28,3 +28,5 @@ Germany’s Federal Network Agency (Bundesnetzagentur) has begun reviewing its e
 
 
 **Source:** [Energy Storage News – “Germany opening up inertia services for BESS, discussing grid fee reforms” (May 21, 2025)](https://www.energy-storage.news/germany-opening-up-inertia-services-for-bess-discussing-grid-fee-reforms/)  
+
+{% include comments.html %}

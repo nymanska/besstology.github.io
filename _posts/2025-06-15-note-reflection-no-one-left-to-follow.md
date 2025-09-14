@@ -30,3 +30,4 @@ An episode of the [Energy Insiders](https://reneweconomy.com.au/) podcast featur
 **Source:** [“State of Inertia and Potential for Grid-Forming Inverters” — Energy Insiders podcast (RenewEconomy)](https://podcasts.apple.com/se/podcast/energy-insiders-a-reneweconomy-podcast/id1198375045?i=1000488644044)
 
 
+{% include comments.html %}

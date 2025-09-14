@@ -195,3 +195,5 @@ _No entries yet_
 
 ---
 
+
+{% include comments.html %}

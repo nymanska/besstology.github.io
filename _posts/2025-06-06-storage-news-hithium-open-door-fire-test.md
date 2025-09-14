@@ -32,3 +32,4 @@ On June 5, 2025, HiTHIUM successfully completed what it claims to be the first-e
 **Source:** [HiTHIUM Newsroom – “HiTHIUM Completes the World's First All Open-Door Large-Scale Fire Test” (June 5, 2025)](https://en.hithium.com/newsroom/latest/details/69.html)
 
 
+{% include comments.html %}
