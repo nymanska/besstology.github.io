@@ -5,9 +5,9 @@ order: 4
 ---
 
 
-I’m Gustav Nyman, an entrepreneur and CTO working in the battery energy storage space. I started BESStology because I believe that sharing knowledge accelerates innovation and drives the global energy transition.
+I’m Gustav Nyman, an entrepreneur and CTO working in the Battery Energy Storage System (BESS) industry. I started BESStology because I believe that sharing knowledge accelerates innovation and drives the global energy transition.
 
-Here, I share clear, fact-based insights into the technologies, standards, and market trends shaping the future of Battery Energy Storage Systems - helping professionals make informed, forward-looking decisions.
+Here, I share clear, fact-based insights into the technologies, standards, and market trends shaping the future of BESS - helping professionals make informed, forward-looking decisions.
 
 Built to be useful now, and expandable later - not unlike your favorite BESS site, except this one remembered to leave room for augmentation.
 
