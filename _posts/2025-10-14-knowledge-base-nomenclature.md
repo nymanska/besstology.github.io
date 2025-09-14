@@ -1,5 +1,5 @@
 ---
-title: "📋 Nomenclature 101 in the BESS Industry"
+title: "📋 BESS Industry Nomenclature (A–Z Guide)"
 date: 2025-10-14 14:00:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [nomenclature]
