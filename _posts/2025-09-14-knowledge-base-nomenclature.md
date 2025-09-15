@@ -9,7 +9,7 @@ image:
 author: gustav
 ---
 
-Nomenclature relevant to Battery Energy Storage Systems (BESS).  
+This overview provides definitions of key terms and abbreviations used in the Battery Energy Storage System (BESS) industry. It is intended as a living reference, updated continuously as the sector evolves.
 
 **Jump to:**  
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)  
@@ -51,7 +51,7 @@ _No entries yet_
 ## D  
 
 #### DC Block  
-A cabinet or containerized. rised battery system includeing battery racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), and DC protection equipment. 
+A containerized or cabinetized battery system including racks/modules, Battery Management System (BMS), Fire Suppression System (FSS), and DC protection equipment. Typically forms the core building block of a BESS Block.  
 
 ---
 
@@ -143,7 +143,7 @@ _No entries yet_
 ## R  
 
 #### RTM Controller (Route-to-Market Controller)  
-Route-to-Market (RTM) controller used for commercial dispatch, asset scheduling, and revenue optimization. A route to market controller is an optional device that may or may not be required depending on the capabilities of the battery plant controller. Often referred to as a Energy Management System (EMS) depending on the functionality.
+A controller used for commercial dispatch, asset scheduling, and revenue optimization. Its role depends on the capabilities of the Battery Plant Controller and may often be omitted if the Route-to-Market provider can interace directly with the Battery Plant Controller (BPC)
 
 ---
 
