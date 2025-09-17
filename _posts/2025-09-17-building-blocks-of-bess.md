@@ -1,15 +1,16 @@
 ---
-title: "🏗️ Building Blocks of a Battery Energy Storage System (BESS)"
+title: "🏗️ Building Blocks of a Battery Energy Storage System Pglant (BESS Plant)"
 date: 2025-09-17 12:00:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [bess-block, dc-block, pcs, mv-skid, controllers, plant-design, bess-plant scada]
 image:
   path: https://www.besstology.com/assets/img/2025/september/banner-bess-building-blocks.png
   lqtip:
+mermaid: true
 author: gustav
 ---
 
-Battery Energy Storage Systems (BESS) are often described using terms such as DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller, EMS,. To avoid confusion, this article lays out how these pieces fit together - from the core building block, the DC Block to a full Battery Energy Storage System plant with corresponding controls. The article is a series of Spotlight articles where we dive into the BESS nomenclature and terminology from our [📋 BESS Nomenclature Guide A-Z](https://www.besstology.com/categories/nomenclature/)](https://www.besstology.com/categories/nomenclature/).
+Battery Energy Storage Systems (BESS) are often described using terms such as DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller, EMS,. To avoid confusion, this article lays out how these pieces fit together - from the core building block, the DC Block to a full Battery Energy Storage System plant with corresponding controls. The article is a series of Spotlight articles where we dive into the BESS nomenclature and terminology from our [📋 BESS Nomenclature Guide A-Z](https://www.besstology.com/posts/knowledge-base-nomenclature/).
 
 ---
 
@@ -20,7 +21,7 @@ A BESS Block is the functional building block of a plant, consisting of:
 - MV Skid  
 - BESS Controller  
 
-```mermaid
+```mermaid!
 graph LR
     subgraph A[BESS Block]
         direction LR
@@ -28,6 +29,8 @@ graph LR
         B4[BESS Controller]
     end
 ```
+
+
 
 ### 🔋 DC Block  
 The **DC Block** is the electrochemical core of the system. It contains battery cells packaged in modules and racks, typically housed in a cabinet or container format. Each block includes a Battery Management System (BMS), Fire Suppression System (FSS), and DC protection. In modular projects, multiple DC Blocks can be paired with PCS and MV Skids to scale capacity.
