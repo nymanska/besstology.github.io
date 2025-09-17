@@ -21,7 +21,7 @@ A BESS Block is the functional building block of a plant, consisting of:
 - MV Skid  
 - BESS Controller  
 
-```mermaid!
+```mermaid
 graph LR
     subgraph A[BESS Block]
         direction LR
