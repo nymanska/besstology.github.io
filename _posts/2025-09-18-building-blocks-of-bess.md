@@ -10,11 +10,13 @@ mermaid: true
 author: gustav
 ---
 
-Battery Energy Storage Systems (BESS) are often described using terms such as AC Block, DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller, EMS,. To avoid confusion, this article lays out how these pieces fit together - from the core building block, the DC Block to a full Battery Energy Storage System plant with corresponding controls. The article is a series of Spotlight articles where we dive into the BESS nomenclature and terminology from our [📋 BESS Nomenclature Guide A-Z](https://www.besstology.com/posts/knowledge-base-nomenclature/).
+Battery Energy Storage Systems (BESS) are often described using terms such as AC Block, DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller, EMS,. To avoid confusion, this article lays out how these pieces fit together - from the core DC Block to a full Battery Energy Storage System plant with corresponding controls. 
+
+This article is a series of Spotlight articles where we dive into the BESS nomenclature and terminology from our [📋 BESS Nomenclature Guide A-Z](https://www.besstology.com/posts/knowledge-base-nomenclature/).
 
 ---
 
-## 📦 BESS Block  
+## BESS Block  
 A BESS Block is the functional building block of a plant, consisting of:  
 - DC Block(s)  
 - PCS(s)  
@@ -45,23 +47,59 @@ The PCS converts energy between AC and DC. It enables bidirectional power flow a
 ---
 
 ### Medium-Voltage (MV) Skid  
-The MV Skid typically integrates a step-up transformer and medium-voltage switchgear, packaging the necessary electrical infrastructure to connect PCS outputs to the grid. Some manufacturers combine PCS and MV Skid into a single containerized solution, often referred to as a PCS & MV Skid.
+The MV Skid typically integrates a step-up transformer and medium-voltage switchgear, packaging the necessary electrical infrastructure to connect PCS outputs to the grid. The PCS and MV Skid are often combined into a single containerized solution referred to as a PCS & MV Skid.
 
 ---
 
 ### BESS Controller  
-The BESS Controller supervises operation of the DC Block(s) and PCS within a single BESS Block. It ensures coordinated charging, discharging, safety monitoring, and communication with higher-level controllers. This is the local “brain” of each block.
+The BESS Controller manages the interaction of the DC Block(s) and PCS within a single BESS Block. It handles charging and discharging control, safety monitoring, and communication with higher-level controllers.
 
 ---
 
 ## BESS Plant  
-A BESS Plant aggregates multiple BESS Blocks and adds plant-level controls and supervision so the site behaves as one controllable grid resource.  
+A BESS Plant aggregates multiple BESS Blocks and incorporates plant-level controls so the site operates as one dispatchable grid resource.  
 
-A BESS Plant includes:  
-- One or more BESS Blocks operating in parallel
+A BESS Plant typically includes:  
+- One or more BESS Blocks operating in parallel  
 - Battery Plant Controller (BPC) for plant-wide coordination and grid code compliance  
-- SCADA for supervisory control, monitoring, alarms, historian, and operator HMI 
-- RTM Controller (optional if not included in the BPC) for revenue optimization communication interface.
+- SCADA for supervisory control, monitoring, alarms, historian, and operator interface  
+- Route-to-Market (RTM) Controller for commercial dispatch and revenue optimization (optional if functions are embedded in the BPC)
+
+```mermaid
+graph TB
+    subgraph Plant[BESS Plant]
+        direction LR
+
+        %% Block 1
+        subgraph Block1[BESS Block 1]
+            B1[DC Block] --- B2[PCS] --- B3[MV Skid]
+            B4[BESS Controller]
+        end
+
+        %% Block 2
+        subgraph Block2[BESS Block 2]
+            C1[DC Block] --- C2[PCS] --- C3[MV Skid]
+            C4[BESS Controller]
+        end
+
+        %% Plant-level
+        BPC[Battery Plant Controller]
+        SCADA[SCADA System]
+        RTM[Route-to-Market Controller]
+        HV[HV Substation]
+    end
+
+    %% Electrical (lines only)
+    B3 --- HV
+    C3 --- HV
+
+    %% Control (arrows)
+    B4 --- BPC
+    C4 --- BPC
+    BPC --- SCADA
+    BPC --- RTM
+
+```
 
 ---
 
