@@ -10,7 +10,7 @@ mermaid: true
 author: gustav
 ---
 
-Battery Energy Storage Systems (BESS) are often described using terms such as AC Block, DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller, EMS,. To avoid confusion, this article lays out how these pieces fit together - from the core DC Block to a full Battery Energy Storage System plant with corresponding controls. 
+Battery Energy Storage Systems (BESS) are often described using terms such as AC Block, DC Block, PCS, MV Skid, BESS Block, BESS Plant, BESS Controller, Battery Plant Controller,. To avoid confusion, this article lays out how these pieces fit together - from the core DC Block to a full Battery Energy Storage System plant with corresponding controls. 
 
 This article is a series of Spotlight articles where we dive into the BESS nomenclature and terminology from our [📋 BESS Nomenclature Guide A-Z](https://www.besstology.com/posts/knowledge-base-nomenclature/).
 
