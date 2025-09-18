@@ -89,15 +89,13 @@ graph TB
         HV[HV Substation]
     end
 
-    %% Electrical (lines only)
+
     B3 --- HV
     C3 --- HV
-
-    %% Control (arrows)
-    B4 --- BPC
-    C4 --- BPC
-    BPC --- SCADA
-    BPC --- RTM
+    B4 -.- BPC
+    C4 -.- BPC
+    BPC -.- SCADA
+    BPC -.- RTM
 
 ```
 
@@ -121,6 +119,5 @@ A controller used for commercial dispatch, asset scheduling, and revenue optimiz
 ## Summary
 From the DC Block as the electrochemical foundation, to the BESS Block as the functional unit, and finally the BESS Plant with plant-level controllers and SCADA - each layer builds on the previous one. A clear understanding of this hierarchy avoids confusion in project design and communication, ensuring consistency between developers, EPC contractors, service providers, and manufacturers.
 
-Clear understanding of this hierarchy avoids confusion in project design and communication, ensuring consistency between developers, EPC Contractors, Service-level providers, and manufacturers.
 
 {% include comments.html %}
