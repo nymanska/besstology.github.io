@@ -1,5 +1,5 @@
 ---
-title: "📋 Building Blocks of a Battery Energy Storage System Plant"
+title: "🔋 Building Blocks of a Battery Energy Storage System Plant"
 date: 2025-09-18 12:00:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [bess-block, dc-block, pcs, mv-skid, controllers, plant-design, bess-plant scada]
