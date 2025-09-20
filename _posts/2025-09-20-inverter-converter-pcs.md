@@ -1,5 +1,5 @@
 ---
-title: "🔌 Inverter, Converter, and PCS: Understanding the Power Electronics in BESS"
+title: "⚡️ Inverter, Converter, and PCS: Understanding the Power Electronics in BESS"
 date: 2025-09-20 17:55:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [inverter, converter, pcs, power-electronics]
@@ -23,8 +23,8 @@ An **inverter** is a power electronic device that converts **direct current (DC)
 Most modern inverters used in energy storage are **bidirectional**, meaning they can also convert AC to DC for charging batteries. Inverters operate using switching devices (like IGBTs or MOSFETs) and pulse-width modulation (PWM) techniques to produce a sinusoidal AC waveform from a DC input.
 
 Inverters can be:
-- **Grid-following**: Synchronize with an existing grid voltage and frequency
-- **Grid-forming**: Establish voltage and frequency references, useful in islanded or weak-grid conditions
+- Grid-following: Synchronize with an existing grid voltage and frequency
+- [Grid-forming](https://www.besstology.com/posts/knowledge-base-what-is-grid-forming-inverter/): Establish voltage and frequency references, useful in islanded or weak-grid conditions
 
 ---
 
