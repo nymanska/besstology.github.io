@@ -44,7 +44,8 @@ A complete Battery Energy Storage System plant consisting of BESS blocks (or AC 
 
 ## C  
 
-_No entries yet_  
+### Converter
+A power electronic device that changes electrical energy from one form to another. Converters include AC-DC rectifiers, DC-DC converters, DC-AC inverters, and AC-AC frequency converters. Inverters are therefore a subset of converters.
 
 ---
 
@@ -82,7 +83,8 @@ _No entries yet_
 
 ## I  
 
-_No entries yet_  
+### Inverter
+A power electronic device - also referred to as a converter - that transforms direct current (DC) into alternating current (AC). In BESS, the inverter is the primary interface between the battery system and the AC grid. Modern inverters are bidirectional, supporting both charging (AC to DC) and discharging (DC to AC). Depending on control design, they can operate in grid-following mode or grid-forming mode).
 
 ---
 

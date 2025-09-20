@@ -1,12 +1,13 @@
 ---
 title: "🔌 Inverter, Converter, and PCS: Understanding the Power Electronics in BESS"
-date: 2025-09-20 18:00:00 0100
+date: 2025-09-20 17:55:00 0100
 categories: [Knowledge Base, Nomenclature]
 tags: [inverter, converter, pcs, power-electronics]
 image:
   path: https://www.besstology.com/assets/img/2025/september/banner-inverter-converter-pcs.png
   lqtip:
 author: gustav
+published: True
 ---
 
 In power electronics, the terms **inverter**, **converter**, and **power conversion system (PCS)** describe key components used to transform electrical energy from one form to another. While these terms are sometimes used interchangeably, especially in commercial contexts, they refer to different functions.
@@ -57,11 +58,10 @@ PCS units are designed to comply with grid codes, deliver fast frequency respons
 ## Summary
 Understanding the distinct roles of inverters, converters, and PCS helps clarify technical specs, system architectures, and real-world capabilities of battery energy storage systems.
 
-
 | Component | Function                    | Included in PCS? | Typical Use Case                |
 |----------|-----------------------------|------------------|----------------------------------|
 | Inverter | DC ⇄ AC conversion          | ✅               | Interface between DC and AC      |
 | Converter| AC ⇄ DC, DC ⇄ DC, DC ⇄ AC   | ✅ (if needed)    | Voltage, frequency, or current conversion |
 | PCS      | Complete hardware and control solution | —                | Grid-connected BESS integration  |
 
-
+{% include comments.html %}
