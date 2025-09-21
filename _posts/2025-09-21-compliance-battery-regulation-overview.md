@@ -7,7 +7,7 @@ image:
   path: https://www.besstology.com/assets/img/2025/september/banner-eu-battery-regulation.png
   lqtip:
 author: gustav
-published: True
+published: true
 ---
 
 ### 📌 TL;DR

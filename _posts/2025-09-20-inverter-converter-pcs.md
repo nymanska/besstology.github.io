@@ -7,7 +7,7 @@ image:
   path: https://www.besstology.com/assets/img/2025/september/banner-inverter-converter-pcs.png
   lqtip:
 author: gustav
-published: True
+published: true
 ---
 
 In power electronics, the terms **inverter**, **converter**, and **power conversion system (PCS)** describe key components used to transform electrical energy from one form to another. While these terms are sometimes used interchangeably, especially in commercial contexts, they refer to different functions.
