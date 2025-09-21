@@ -1,8 +1,8 @@
 ---
-title: "🔋 EU Battery Regulation 2023/1542 – General Overview and Compliance Timeline"
-date: 2025-09-21 09:00:00 +0100
+title: "🔋 EU Battery Regulation 2023/1542 - General Overview and Compliance Timeline"
+date: 2025-09-21 09:00:00 0100
 categories: [Knowledge Base, Compliance]
-tags: [battery-regulation, eu-2023/1542, compliance, sustainability, recycling, battery-passport]
+tags: [battery-regulation, compliance, sustainability, recycling, battery-passport]
 image:
   path: https://www.besstology.com/assets/img/2025/september/banner-eu-battery-regulation.png
   lqtip:
