@@ -83,11 +83,17 @@ It applies to **all battery types**: portable, automotive, industrial, electric 
   - Effective from **18 August 2025**  
 - Commission to publish **guidelines by 18 February 2025**  
 
+> From August 2025, every company placing batteries on the EU market must be able to prove they know where their raw materials come from, and that they’re sourced responsibly.
+{: .prompt-info }
+
 ---
 
 ### 🏷️ Labelling & Battery Passport  
 - **Labelling & QR codes**: Gradually introduced from **18 August 2025**  
 - **Battery passport**: Required for **EV, LMT, and industrial >2 kWh** batteries from **18 February 2027**  
+
+> A digital “battery passport” - a structured electronic record containing detailed information about the battery’s chemistry, materials, carbon footprint, safety testing, and supply chain transparency and traceability.
+{: .prompt-info }
 
 ---
 
