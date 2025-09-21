@@ -29,12 +29,14 @@ Watching TÜV SÜD’s webinar *Navigating the EU Battery Regulation* reminded m
 
 ## BESStology Perspective  
 - **Complex Responsibility Chains:** The regulation defines obligations by role (producer, importer, distributor, etc.), but in practice responsibility can shift between manufacturers, EPCs, developers, and asset owners. Mapping compliance duties across the value chain is complex, and clarity often requires expert interpretation.  
-- **Strategic Implications:** Compliance is no longer a cost of doing business; it is becoming a differentiator in accessing markets and securing long-term competitiveness.  
+- **Data Access vs. Confidentiality:** Article 14 requires SOH and lifetime data to be shared through the BMS, but there are  controversies around how these are defined. Different methodologies exist, and disclosing them may expose confidential know-how, making data access both a compliance and IP challenge.
+- **CE Marking as Proof of Compliance:** Article 12 and similar requirements sit within the CE marking framework. The Battery Regulation defines the obligations (e.g., safety testing, carbon footprint, labeling), while CE marking is the formal declaration that these have been met. In practice, no battery or stationary BESS can carry a CE mark unless it fully complies with the Battery Regulation.
+
 
 For a structured compliance roadmap with key dates and requirements, see our previous article: [🔋 EU Battery Regulation 2023/1542 - General Overview and Compliance Timeline](https://www.besstology.com/posts/compliance-battery-regulation-overview/).  
 
-**Source:** [TÜV SÜD Webinar – *Navigating the EU Battery Regulation* (2025)](https://www.tuvsud.com)
-
 {% include embed/youtube.html id='MC4A8EAUg9o' %}
+
+**Source:** [TÜV SÜD Webinar – *Navigating the EU Battery Regulation* (2025)](https://youtu.be/MC4A8EAUg9o)
 
 {% include comments.html %}
