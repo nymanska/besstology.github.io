@@ -31,7 +31,7 @@ Watching TÜV SÜD’s webinar *Navigating the EU Battery Regulation* reminded m
 - **Complex Responsibility Chains:** The regulation defines obligations by role (producer, importer, distributor, etc.), but in practice responsibility can shift between manufacturers, EPCs, developers, and asset owners. Mapping compliance duties across the value chain is complex, and clarity often requires expert interpretation.  
 - **Strategic Implications:** Compliance is no longer a cost of doing business; it is becoming a differentiator in accessing markets and securing long-term competitiveness.  
 
-For a structured compliance roadmap with key dates and requirements, see our previous article: [🔋 EU Battery Regulation 2023/1542 - General Overview and Compliance Timeline](/2025/09/21/compliance-battery-regulation-overview).  
+For a structured compliance roadmap with key dates and requirements, see our previous article: [🔋 EU Battery Regulation 2023/1542 - General Overview and Compliance Timeline](https://www.besstology.com/posts/compliance-battery-regulation-overview/).  
 
 **Source:** [TÜV SÜD Webinar – *Navigating the EU Battery Regulation* (2025)](https://www.tuvsud.com)
 
